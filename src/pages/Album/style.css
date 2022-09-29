@@ -1,0 +1,6 @@
+.albums{
+    display: grid;
+    justify-items: center;
+    padding: 30px;
+    gap: 20px;
+}

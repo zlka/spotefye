@@ -1,0 +1,26 @@
+h2 {
+    color:azure;
+    text-align: center;
+    font-size: x-large;
+    padding: 50px;
+}
+
+
+
+img {
+    width: 300px;
+    box-shadow: 0 0.2rem 1.2rem gray;
+    margin: 20px
+  }
+  
+.about {
+    display: grid;
+    justify-items: center;
+    padding: 30px;
+    gap: 20px;
+}
+
+.container{
+    display:flex;
+    gap:20px;
+}

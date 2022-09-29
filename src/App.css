@@ -1,0 +1,11 @@
+*{
+  background-color: black;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: whitesmoke;
+}
+
+h1{
+  text-align: center;
+  font-size: 5em;
+  font-style: italic
+}
