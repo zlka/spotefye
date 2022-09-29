@@ -1,6 +1,14 @@
+.title{
+    display: flex;
+    justify-content: flex-end;
+}
+
 ul {
-    display:flex;
-    justify-content: space-evenly;
+    display: flex;
+    align-items: center; 
+    justify-content: flex-end;
+    gap: 40px;
+    margin-left: 300px;
 
 }
 

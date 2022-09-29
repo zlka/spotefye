@@ -8,10 +8,15 @@ function Nav() {
 
   return (
     <>
-      <ul>
+      <div className='title'>
+        <h1 >Kaytranada</h1>
+
+        <ul>
         <NavLink className={activeClass} to="/" end >Home</NavLink>
         <NavLink className={activeClass} to="album" >Album</NavLink>
       </ul>
+      </div>
+      
 
     </>
   );

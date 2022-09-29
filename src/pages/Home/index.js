@@ -5,7 +5,7 @@ function Home() {
     return (
         <>
             <h2>About</h2>
-            <div className="container">
+            <div className="homepage">
                 <div className="about">
                     <h3>Origin:	Montreal, Quebec, Canada</h3>
                     <h3>Genre: Electronic , hip-hop, house </h3>

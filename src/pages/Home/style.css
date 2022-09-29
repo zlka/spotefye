@@ -1,8 +1,9 @@
 h2 {
-    color:azure;
     text-align: center;
     font-size: x-large;
-    padding: 50px;
+    /* padding: 50px; */
+    /* border: 2px solid red; */
+    margin-top: 40px
 }
 
 
@@ -20,7 +21,9 @@ img {
     gap: 20px;
 }
 
-.container{
+.homepage{
     display:flex;
+    justify-content: space-between;
     gap:20px;
+    /* border: 2px solid red; */
 }
